@@ -1,0 +1,12 @@
+body{
+    font-family: sans-serif;
+    background: gray;
+
+
+}
+h1{
+    text-align: center;
+    margin: 2rem;
+    color: aliceblue;
+    text-shadow: 2px 2px 2px black rgb(red, green, blue);
+}
